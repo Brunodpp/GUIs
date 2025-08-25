@@ -1,2 +1,3 @@
 # GUIs
-## Disciplina de jogos ministrada pelo professor Francisco
+## Disciplina de interface gráfica ministrada pelo professor Francisco
+Linguagens usadas: C (foco na lib SDL2) e Lua
