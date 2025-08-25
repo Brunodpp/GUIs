@@ -28,7 +28,8 @@ int main (int argc, char* args[])
     	filledCircleRGBA(ren,300+(amp*cos(x)),150+(amp*sin(x)),25,0, 119, 190,255);
    	    x+=0.25;
     	SDL_RenderPresent(ren);
-    	SDL_Delay(100); //10fps
+    	SDL_Delay(100); //10fps.
+
     }
    
     
