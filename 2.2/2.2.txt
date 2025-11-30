@@ -1,0 +1,4 @@
+Existem 3 ações: 
+Clique -> Retângulo fica mudando de cor até uma ação diferente 
+Arrasto -> Arrasta o retângulo pela tela 
+Esc-> Ao clicar esc durante o arrasto o retângulo volta para a posição anterior ao começo do arrasto
