@@ -1,0 +1,2 @@
+O programa conta a quantidade de cliques dados em uma única posição com um intervalo entre cliques menor que 250ms
+Ao mover o mouse ou estourar o intervalo de 250ms o programa printar na tela a quantidade de cliques.
